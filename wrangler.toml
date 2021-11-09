@@ -1,0 +1,11 @@
+name = "general-assesment"
+type = "webpack"
+account_id = "58725f493ed309e525add8440d49b70d"
+workers_dev = true
+route = ""
+zone_id = ""
+webpack_config = "webpack.config.js"
+        compatibility_date = "2021-11-09"
+kv_namespaces = [ 
+         { binding = "FILES", preview_id = "30cdaa1ea95a4ea3a216528a399520cc" }
+]
